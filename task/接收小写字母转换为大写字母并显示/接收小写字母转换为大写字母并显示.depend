@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538110630 source:d:\码\接收小写字母转换为大写字母并显示\main.c
+	<stdio.h>
+	<stdlib.h>
+
